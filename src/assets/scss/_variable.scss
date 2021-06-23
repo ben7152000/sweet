@@ -1,0 +1,11 @@
+$colorGreen: #3F5D45;
+$colorGreenLight: #8DA291;
+$colorYellow: #FFE180;
+$colorGrey: #EAF0ED;
+
+$theme-colors: (
+				"colorGreen":    $colorGreen,
+				"colorGreenLight":  $colorGreenLight,
+				"colorYellow": $colorYellow,
+				"colorGrey": $colorGrey
+) !default;
